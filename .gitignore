@@ -1,4 +1,4 @@
 node_modules
 .sfdx
 .vscode/settings.json
-force-app/main/default/profiles
+
